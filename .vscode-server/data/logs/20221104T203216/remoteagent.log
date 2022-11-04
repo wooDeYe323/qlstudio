@@ -1,0 +1,27 @@
+2022-11-04 20:32:16.382 [info] Extension host agent started.
+2022-11-04 20:32:16.741 [info] [127.0.0.1][36d16fd7][ManagementConnection] New connection established.
+2022-11-04 20:32:17.173 [info] [127.0.0.1][58b43eda][ExtensionHostConnection] New connection established.
+2022-11-04 20:32:17.178 [info] [127.0.0.1][58b43eda][ExtensionHostConnection] <99> Launched Extension Host Process.
+2022-11-04 20:33:28.389 [info] [127.0.0.1][36d16fd7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-04 20:33:28.397 [info] [127.0.0.1][58b43eda][ExtensionHostConnection] <99> Extension Host Process exited with code: 0, signal: null.
+2022-11-04 20:33:29.823 [info] [127.0.0.1][9c22a817][ManagementConnection] New connection established.
+2022-11-04 20:33:30.191 [info] [127.0.0.1][06083946][ExtensionHostConnection] New connection established.
+2022-11-04 20:33:30.194 [info] [127.0.0.1][06083946][ExtensionHostConnection] <143> Launched Extension Host Process.
+2022-11-04 21:20:26.672 [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/jxyh)
+2022-11-04 21:20:26.673 [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+2022-11-04 21:21:11.243 [info] Getting Manifest... formulahendry.code-runner
+2022-11-04 21:21:12.102 [info] Installing extension: formulahendry.code-runner
+2022-11-04 21:21:14.112 [info] Extracted extension to /home/jxyh/.vscode-server/extensions/.8e757042-0d23-4cbc-adba-5ea107fd7721: formulahendry.code-runner
+2022-11-04 21:21:14.123 [info] Renamed to /home/jxyh/.vscode-server/extensions/formulahendry.code-runner-0.11.8
+2022-11-04 21:21:14.124 [info] Extracting completed. formulahendry.code-runner
+2022-11-04 21:21:14.125 [info] Extension installed successfully: formulahendry.code-runner
+2022-11-04 21:33:07.637 [info] [127.0.0.1][9c22a817][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-04 21:33:07.664 [info] [127.0.0.1][06083946][ExtensionHostConnection] <143> Extension Host Process exited with code: 0, signal: null.
+2022-11-04 21:33:09.207 [info] [127.0.0.1][b30cf5e7][ManagementConnection] New connection established.
+2022-11-04 21:33:09.473 [info] [127.0.0.1][ee17f206][ExtensionHostConnection] New connection established.
+2022-11-04 21:33:09.478 [info] [127.0.0.1][ee17f206][ExtensionHostConnection] <2407> Launched Extension Host Process.
+2022-11-05 00:58:51.403 [info] [127.0.0.1][b30cf5e7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-05 00:58:51.474 [info] [127.0.0.1][ee17f206][ExtensionHostConnection] <2407> Extension Host Process exited with code: 0, signal: null.
+2022-11-05 00:58:55.192 [info] [127.0.0.1][2f6ddde3][ManagementConnection] New connection established.
+2022-11-05 00:58:55.548 [info] [127.0.0.1][82a4c0a1][ExtensionHostConnection] New connection established.
+2022-11-05 00:58:55.561 [info] [127.0.0.1][82a4c0a1][ExtensionHostConnection] <16160> Launched Extension Host Process.

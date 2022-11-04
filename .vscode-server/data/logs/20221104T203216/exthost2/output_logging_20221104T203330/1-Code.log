@@ -1,0 +1,10 @@
+[Running] cd "/home/jxyh/qlstudio/" && gcc 1.c -o 1 && "/home/jxyh/qlstudio/"1
+Hello World!
+
+[Done] exited with code=0 in 0.132 seconds
+
+[Running] cd "/home/jxyh/qlstudio/" && gcc 1.c -o 1 && "/home/jxyh/qlstudio/"1
+Hello World!
+
+[Done] exited with code=0 in 0.112 seconds
+

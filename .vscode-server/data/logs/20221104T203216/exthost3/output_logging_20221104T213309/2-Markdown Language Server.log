@@ -1,0 +1,50 @@
+[Trace 13:33:17.261] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jxyh/qlstudio/2.md
+[Trace 13:33:17.262] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 13:33:17.262] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:33:17.264] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:33:17.340] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 1
+[Debug 13:33:17.341] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Debug 13:33:17.412] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Debug 13:33:18.728] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 13:33:51.472] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:28.437] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 13:35:28.610] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 13:35:29.178] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:29.178] VsCodeClientWorkspace: deleteDocument: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:31.765] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:31.791] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:31.792] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:31.792] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:31.792] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 1
+[Debug 13:35:31.792] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Trace 13:35:31.793] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 13:35:31.793] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Debug 13:35:31.994] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 13:35:32.354] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:36:33.738] VsCodeClientWorkspace: TextDocument.onDidOpen: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:36:33.738] VsCodeClientWorkspace: TextDocument.onDidChanceContent: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:36:33.738] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 13:36:33.738] LinkProvider: compute - git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:36:34.299] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:47:36.682] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:47:37.419] VsCodeClientWorkspace: TextDocument.onDidClose: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:47:37.419] VsCodeClientWorkspace: deleteDocument: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:47:37.621] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 13:47:39.801] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 13:47:39.998] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 13:47:54.468] VsCodeClientWorkspace: TextDocument.onDidOpen: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:47:54.468] VsCodeClientWorkspace: TextDocument.onDidChanceContent: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:47:54.468] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 13:47:54.469] LinkProvider: compute - git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 13:47:55.014] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 14:01:52.907] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 14:01:53.120] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 14:01:53.734] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 14:03:23.340] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 14:03:23.532] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 14:03:27.417] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 14:41:36.890] VsCodeClientWorkspace: TextDocument.onDidClose: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 14:41:36.890] VsCodeClientWorkspace: deleteDocument: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 14:41:38.724] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 14:41:38.724] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/jxyh/qlstudio/2.md
+[Trace 14:41:38.724] VsCodeClientWorkspace: deleteDocument: file:///home/jxyh/qlstudio/2.md

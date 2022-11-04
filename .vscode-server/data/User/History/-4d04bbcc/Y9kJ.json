@@ -1,0 +1,26 @@
+{
+  "terminal.integrated.profiles.windows":{
+    "MINGW32": {
+      "path": "C:\\Windows\\System32\\ cmd.exe", 
+      "icon": "terminal-cmd",
+      "args": [
+        "-defterm",
+        "-mingw32",
+        "-no-start",
+        "-here"],
+        "env": {
+          "CHERE_INVOKING": "1",
+          "MSYSTEM": "MINGW32"
+        }
+    }
+  },
+  "files.autoGuessEncoding": true,
+  "window.zoomLevel": 1,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "debug.onTaskErrors": "debugAnyway",
+  "workbench.editor.enablePreview": false,
+  "git.path": "C:\/Program Files\/Git\/cmd\/git.exe",
+  "files.autoSave": "afterDelay",
+  "git.autofetch": true
+}
