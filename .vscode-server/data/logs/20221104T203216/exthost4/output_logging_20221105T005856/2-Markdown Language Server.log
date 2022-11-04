@@ -1,0 +1,152 @@
+[Trace 17:29:49.117] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/jxyh/qlstudio/2.md
+[Trace 17:29:49.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:29:49.119] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:29:49.121] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:29:49.173] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 1
+[Debug 17:29:49.174] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Debug 17:29:49.258] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Debug 17:29:50.794] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 17:29:52.574] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:08.489] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:08.702] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 1
+[Trace 17:30:12.732] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:12.733] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:12.955] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 2
+[Debug 17:30:12.955] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:13.001] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.125] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 2
+[Trace 17:30:13.277] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.278] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.326] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.326] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.377] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.377] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.378] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.378] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.426] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.426] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.477] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.477] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.484] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.484] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.546] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.546] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.597] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.598] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.602] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.602] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.666] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.666] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.666] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.666] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.715] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.716] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.766] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.771] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.771] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.826] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.827] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.853] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.853] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.906] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.906] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.917] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.917] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.957] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:13.957] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.006] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.006] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.055] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.055] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.055] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.056] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.106] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.106] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.138] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.138] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.196] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.197] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.207] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.208] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.267] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.267] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.277] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.277] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.326] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.326] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.377] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.377] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.377] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.378] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.424] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.425] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.476] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.476] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.491] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.491] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.528] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.528] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.587] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.587] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:14.777] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 39
+[Debug 17:30:14.777] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:14.830] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:14.942] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 39
+[Trace 17:30:15.366] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:15.367] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:15.582] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 40
+[Debug 17:30:15.582] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:15.648] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:15.749] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 40
+[Trace 17:30:15.918] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:15.918] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:15.965] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:15.966] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.017] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.017] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.024] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.024] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.077] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.077] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.083] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.084] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.145] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.145] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.197] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.197] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.205] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.206] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.256] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.257] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.271] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.271] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.307] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.307] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.357] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.357] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.485] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.485] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.629] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.629] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.846] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:16.846] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:17.017] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 56
+[Debug 17:30:17.017] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:17.071] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:17.071] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:17.287] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 57
+[Debug 17:30:17.287] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:17.406] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:17.406] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:17.605] MdFoldingProvider: provideFoldingRanges — file:///home/jxyh/qlstudio/2.md 58
+[Debug 17:30:17.605] TableOfContentsProvider: create - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:17.773] DocumentSymbolProvider: provideDocumentSymbols — file:///home/jxyh/qlstudio/2.md 58
+[Debug 17:30:17.773] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:18.881] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:19.913] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/jxyh/qlstudio/2.md
+[Trace 17:30:24.165] VsCodeClientWorkspace: TextDocument.onDidOpen: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 17:30:24.165] VsCodeClientWorkspace: TextDocument.onDidChanceContent: git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
+[Trace 17:30:24.165] Server: connection.languages.diagnostics.on: file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:24.165] LinkProvider: compute - file:///home/jxyh/qlstudio/2.md
+[Debug 17:30:24.174] LinkProvider: compute - git:/home/jxyh/qlstudio/2.md?%7B%22path%22%3A%22%2Fhome%2Fjxyh%2Fqlstudio%2F2.md%22%2C%22ref%22%3A%22~%22%7D
